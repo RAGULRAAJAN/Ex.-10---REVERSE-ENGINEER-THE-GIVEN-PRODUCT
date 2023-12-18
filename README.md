@@ -28,7 +28,8 @@
 ![Screenshot 2023-12-18 100227](https://github.com/RAGULRAAJAN/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147473144/29d225fc-5cfd-4d08-a3b9-de37a5ff63ff)
 
 ### Step 6.:- Select the Pan option and select the extruder (left or right) for printing the design.
-![Screenshot 2023-12-18 093622](https://github.com/RAGULRAAJAN/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147473144/395819ee-771e-4053-9c04-444522a52398)
+
+![Screenshot 2023-12-18 074528](https://github.com/RAGULRAAJAN/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147473144/97cd7a02-1209-4e2b-baaf-2f1cab63e79b)
 
 ### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
 ![Screenshot 2023-12-18 093515](https://github.com/RAGULRAAJAN/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147473144/0272a3dd-8b7e-48ae-b50e-1cce8b5ffc42)
