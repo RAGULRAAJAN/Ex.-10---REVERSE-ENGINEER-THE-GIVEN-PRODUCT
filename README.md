@@ -18,6 +18,7 @@
 
 
 ### Step 2.:- Design the geometric features in 3D using auto desk fusion 360.
+![WhatsApp Image 2023-12-18 at 10 38 29_5c2dee1d](https://github.com/RAGULRAAJAN/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147473144/e36e0ff1-2ca9-4470-a1d5-15a04061e816)
 
 
 ### Step 3.:- Save the file and export as .stl
